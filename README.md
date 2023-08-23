@@ -2,5 +2,4 @@
 ## Aplicação para consumir a api-blog.
 
 
-file:///home/willian/Imagens/Capturas%20de%20tela/node-prisma.png
-
+![node-prisma](https://github.com/Williaan/blog-app/assets/18532618/269cbf67-2ebc-4238-bde5-1053e1481574)
