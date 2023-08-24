@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-    baseURL: 'http://localhost:8888',
+    baseURL: 'https://api-blog-nw22xj95k-willian-dev.vercel.app/',
     timeout: 10000,
     headers: {
         'Content-Type': 'application/json'
